@@ -46,6 +46,7 @@ test:
 about:
   home: https://github.com/sjewo/readstata13
   license: GPL-2
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
   summary: Function to read and write the 'Stata' file format.
   license_family: GPL2
 
