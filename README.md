@@ -3,7 +3,7 @@ About r-readstata13
 
 Home: https://github.com/sjewo/readstata13
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-readstata13-feedstock/blob/master/LICENSE.txt)
 
